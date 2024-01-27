@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Sai Dharaneesh! 👋
 
-<!--
-**SaiDharaneesh264/SaiDharaneesh264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Software Engineer based in Hyderabad. I love exploring new technologies and solving real-world problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Zemoso Technologies
+- 🌱 I’m currently learning GenAI and LLM's
+- 💬 Ask me about 
+- 😄 Pronouns: He/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, Java, C
+- Web Technologies: React, Node, Spring boot, FastAPI
+- Databases: Mysql, PostgreSql
+- Tools: VsCode, GitHub, Postman
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
